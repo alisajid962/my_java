@@ -56,9 +56,6 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 2.  Create a new branch for your changes.
 3.  Submit a pull request with a clear description of your modifications.
 
-## License
-
-This repository is licensed under the [License Name] License. See the `LICENSE` file for more information. (Add your license file and change the bracketed information)
 
 ## Author
 
