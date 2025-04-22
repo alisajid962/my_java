@@ -33,7 +33,7 @@
             void displayshape(){
                 System.out.println("THIS IS A CIRCLE ");
             }
-            public int comarearea( Shape other){
+            public int comparearea( Shape other){
                 double thisarea= this.area();
                 double otherarea = other.area();
              if (thisarea>otherarea){
