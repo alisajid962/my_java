@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Book {
+class Book{
     private String title;
     private String author;
     private String genre;
