@@ -5,6 +5,7 @@ public class Array_list {
 
     public static void main(String[] args) {
         ArrayList<String> days = new ArrayList<>();
+        //usage of array list
         days.add("Monday");
         days.add("tueday");
         days.add("Wednesday");
